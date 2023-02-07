@@ -8,4 +8,4 @@
 - BEM
 
 ## Demo
-- [DEMO LINK](https://APetrinko.github.io/Bose_Landing_Page/)
+- [DEMO LINK](https://APetrinko.github.io/my_byke_landing-page/)
